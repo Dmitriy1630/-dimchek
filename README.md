@@ -1,0 +1,2 @@
+# -dimchek
+My first shitcode
